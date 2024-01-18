@@ -1315,6 +1315,9 @@ PRODUCT_PACKAGES += \
     qtiwakelock \
     sensors.ssc \
     libasphere \
+    libqcbassboost \
+    libqcreverb \
+    libqcvirt \
     libshoebox \
     vendor.display.color@1.0 \
     vendor.display.color@1.1 \
